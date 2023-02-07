@@ -1,1 +1,1 @@
-"# Github Finder App" 
+# Github Finder App
